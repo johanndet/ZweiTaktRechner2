@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/johanndethloff/vsc-projekt/vsc/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/myapp.dir/mainApp.cpp.o -c /Users/johanndethloff/vsc-projekt/vsc/mainApp.cpp",
+  "file": "/Users/johanndethloff/vsc-projekt/vsc/mainApp.cpp",
+  "output": "CMakeFiles/myapp.dir/mainApp.cpp.o"
+},
+{
+  "directory": "/Users/johanndethloff/vsc-projekt/vsc/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/myapp.dir/myframe.cpp.o -c /Users/johanndethloff/vsc-projekt/vsc/myframe.cpp",
+  "file": "/Users/johanndethloff/vsc-projekt/vsc/myframe.cpp",
+  "output": "CMakeFiles/myapp.dir/myframe.cpp.o"
+}
+]
